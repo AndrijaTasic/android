@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735429540553",
+    "project_id": "nba2-plast-5ef17",
+    "storage_bucket": "nba2-plast-5ef17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735429540553:android:4a0af7c2d913566daaab18",
+        "android_client_info": {
+          "package_name": "com.example.nba2plast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735429540553-0abpqrv4t5slpu7dpltid3fsg5r03csq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASL5EJ5IuMBnGOY-GSKK3WtSWB1GXGVic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735429540553-0abpqrv4t5slpu7dpltid3fsg5r03csq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
